@@ -1,2 +1,1 @@
-# btk-yazilim-tasarim-desenleri
- BTK Akademi Yazılım Tasarım Desenleri eğitiminin tasarım desenleri Java kodları.
+Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/yazilim-tasarim-desenleri-12150) ulaşabilirsiniz.
