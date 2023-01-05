@@ -1,4 +1,12 @@
-BTK Akademi'de Kaya Oğuz tarafından verilen Yazılım Tasarım Desenleri eğitimine [buradan](https://www.btkakademi.gov.tr/portal/course/yazilim-tasarim-desenleri-12150) ulaşabilirsiniz.
+BTK Akademi'de **Kaya Oğuz** tarafından verilen **Yazılım Tasarım Desenleri** eğitimine [buradan](https://www.btkakademi.gov.tr/portal/course/yazilim-tasarim-desenleri-12150) ulaşabilirsiniz.
+
+## Tavsiye Edilen Kaynaklar
+- `Design Patterns: Elements of Reusable Object-Oriented Software`
+~Gamma Erich, Helm Richard, Johnson Ralph, Vlissides John
+
+- `Head First Design Patterns: A Brain-Friendly Guide`
+~Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+
 
 ## Örneklerin UML Diyagramları
 
