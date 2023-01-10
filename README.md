@@ -1,4 +1,6 @@
-BTK Akademi'de **Kaya Oğuz** tarafından verilen **Yazılım Tasarım Desenleri** eğitimine [buradan](https://www.btkakademi.gov.tr/portal/course/yazilim-tasarim-desenleri-12150) ulaşabilirsiniz.
+:star: BTK Akademi'de **Kaya Oğuz** tarafından verilen **Yazılım Tasarım Desenleri** eğitimine ait örnekler.
+
+:computer: Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/yazilim-tasarim-desenleri-12150) ulaşabilirsiniz.
 
 ## Tavsiye Edilen Kaynaklar
 - `Design Patterns: Elements of Reusable Object-Oriented Software`
