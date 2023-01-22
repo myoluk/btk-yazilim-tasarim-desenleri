@@ -13,18 +13,18 @@ ___
 
 ## Örneklerin Tablosu
 
-| :hash: Tasarım Deseni | :white_check_mark: Java Kod              | :white_check_mark: UML                     |
-| --------------------- | :--------------------------------------: | :----------------------------------------: |
-| 00) Iterator          | [Java Kod](patterns-00-iterator)         | [UML](#00-iterator-design-pattern)         |
-| 01) Composite         | [Java Kod](patterns-01-composite)        | [UML](#01-composite-design-pattern)        |
-| 02) Command           | [Java Kod](patterns-02-command)          | [UML](#02-command-design-pattern)          |
-| 03) State             | [Java Kod](patterns-03-state)            | [UML](#03-state-design-pattern)            |
-| 04) Factory Method    | [Java Kod](patterns-04-factory_method)   | [UML](#04-factory-method-design-pattern)   |
-| 05) Abstract Factory  | [Java Kod](patterns-05-abstract_factory) | [UML](#05-abstract-factory-design-pattern) |
-| 06) Singleton         | [Java Kod](patterns-06-singleton)        | [UML](#06-singleton-design-pattern)        |
-| 07) Adapter           | [Java Kod](patterns-07-adapter)          | [UML](#07-adapter-design-pattern)          |
-| 08) Observer          | [Java Kod](patterns-08-observer)         | [UML](#08-observer-design-pattern)         |
-| 09) Proxy             | [Java Kod](patterns-09-proxy)            | [UML](#09-proxy-design-pattern)            |
+| :hash: Tasarım Deseni    | :white_check_mark: Java Kod              | :white_check_mark: UML                     |
+| ------------------------ | :--------------------------------------: | :----------------------------------------: |
+| **00)** Iterator         | [Java Kod](patterns-00-iterator)         | [UML](#00-iterator-design-pattern)         |
+| **01)** Composite        | [Java Kod](patterns-01-composite)        | [UML](#01-composite-design-pattern)        |
+| **02)** Command          | [Java Kod](patterns-02-command)          | [UML](#02-command-design-pattern)          |
+| **03)** State            | [Java Kod](patterns-03-state)            | [UML](#03-state-design-pattern)            |
+| **04)** Factory Method   | [Java Kod](patterns-04-factory_method)   | [UML](#04-factory-method-design-pattern)   |
+| **05)** Abstract Factory | [Java Kod](patterns-05-abstract_factory) | [UML](#05-abstract-factory-design-pattern) |
+| **06)** Singleton        | [Java Kod](patterns-06-singleton)        | [UML](#06-singleton-design-pattern)        |
+| **07)** Adapter          | [Java Kod](patterns-07-adapter)          | [UML](#07-adapter-design-pattern)          |
+| **08)** Observer         | [Java Kod](patterns-08-observer)         | [UML](#08-observer-design-pattern)         |
+| **09)** Proxy            | [Java Kod](patterns-09-proxy)            | [UML](#09-proxy-design-pattern)            |
 
 
 ## Örneklerin Java Kodları ve UML Diyagramları
