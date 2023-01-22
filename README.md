@@ -3,10 +3,10 @@
 :computer: Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/yazilim-tasarim-desenleri-12150) ulaşabilirsiniz.
 
 ## Tavsiye Edilen Kaynaklar
-- `Design Patterns: Elements of Reusable Object-Oriented Software`
+- :closed_book: `Design Patterns: Elements of Reusable Object-Oriented Software`
 ~Gamma Erich, Helm Richard, Johnson Ralph, Vlissides John
 
-- `Head First Design Patterns: A Brain-Friendly Guide`
+- :blue_book: `Head First Design Patterns: A Brain-Friendly Guide`
 ~Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 
 
