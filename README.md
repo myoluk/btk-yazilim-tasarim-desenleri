@@ -74,7 +74,6 @@ ___
 ![factory_method-uml](images/uml/factory_method-uml.png)
 
 
-
 ### 05) Abstract Factory Design Pattern
 
 :white_check_mark: [Java Kod](patterns-05-abstract_factory)
