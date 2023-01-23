@@ -65,7 +65,6 @@ ___
 ![state-uml](images/uml/state-uml.png)
 
 
-
 ### 04) Factory Method Design Pattern
 
 :white_check_mark: [Java Kod](patterns-04-factory_method)
