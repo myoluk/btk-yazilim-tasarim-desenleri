@@ -14,7 +14,7 @@ ___
 ## Örneklerin Tablosu
 
 | :hash: Tasarım Deseni    | :white_check_mark: Java Kod              | :white_check_mark: UML                     |
-| ------------------------ | :--------------------------------------: | :----------------------------------------: |
+| :----------------------- | :--------------------------------------: | :----------------------------------------: |
 | **00)** Iterator         | [Java Kod](patterns-00-iterator)         | [UML](#00-iterator-design-pattern)         |
 | **01)** Composite        | [Java Kod](patterns-01-composite)        | [UML](#01-composite-design-pattern)        |
 | **02)** Command          | [Java Kod](patterns-02-command)          | [UML](#02-command-design-pattern)          |
